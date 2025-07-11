@@ -2,12 +2,12 @@
 
 This project implements a conversational AI agent using LangChain and Panel, featuring tools for weather information, Wikipedia search, and custom text manipulation. The UI is built with Panel, providing an interactive chat experience.
 
-## Screenshot
+## 💬 Conversational AI Agent Screenshots
 
-![Conversational AI Agent Screenshot(121)](./assets/screenshot(121).png)
-![Conversational AI Agent Screenshot(122))](./assets/screenshot(122).png)
+![Conversational AI Agent Screenshot 121](./assets/screenshot_121.png)
+![Conversational AI Agent Screenshot 122](./assets/screenshot_122.png)
 
-*(Note: You will need to create an `assets` folder in your project root and add a `screenshot.png` file for the image to display.)*
+> 📝 Note: You will need to create an `assets` folder in your project root and add the above `.png` files for the images to display.
 
 
 ## Local Development
