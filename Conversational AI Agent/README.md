@@ -4,8 +4,9 @@ This project implements a conversational AI agent using LangChain and Panel, fea
 
 ## 💬 Conversational AI Agent Screenshots
 
-![Conversational AI Agent Screenshot 121](./assets/screenshot_121.png)
-![Conversational AI Agent Screenshot 122](./assets/screenshot_122.png)
+![Conversational AI Agent Screenshot 121](./assets/Screenshot%20_121.png)
+
+![Conversational AI Agent Screenshot 121](./assets/Screenshot%20_122.png)
 
 > 📝 Note: You will need to create an `assets` folder in your project root and add the above `.png` files for the images to display.
 
